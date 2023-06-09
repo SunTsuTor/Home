@@ -1,9 +1,9 @@
 .grid {
     display: grid;
-    grid-template-rows: 300px 300px 300px;
+    grid-template-rows: 350px 350px 350px;
     grid-template-columns: 350px 350px 350px 350px;
 }
 img {
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 300px;
+    max-height: 300px;
 }
